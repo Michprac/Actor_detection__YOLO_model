@@ -10,8 +10,8 @@ The chip Kendryte K210 can be programmed on the microPython language.
 The neural network that was used in this project is YOLOv2. To make a model you need have a dataset of the person you have chosen. In my case that was Tom Cruise. In addition, I made later model for detecting 2 persons. On the images below you can see results of detection.
 
 <p float="left">
-  <img src ="https://user-images.githubusercontent.com/99809041/236227833-92615543-1fb0-4a0a-bb7e-4f5c61f5fab4.png" width="200" >
-  <img src ="https://user-images.githubusercontent.com/99809041/236228751-0f527b47-745a-4b62-a967-f838d5368989.png" width="200" >
+  <img src ="model_one_actor_v2.png" width="200" >
+  <img src ="/model_two_actors_v2.png" width="200" >
 </p>
 
 Also I made some kind of analysis of working of this system under influence of external factors. Below you can see some graphs. 
