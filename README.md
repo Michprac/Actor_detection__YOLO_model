@@ -1,6 +1,6 @@
 # Device for detecting a specific person based on the YOLO model
 
-model-20565.nncase__MAIXHUB_TOM_CRUISE_MODEL_200_images
+Generated model name is model-20565.nncase__MAIXHUB_TOM_CRUISE_MODEL_200_images
 
 The project was created using the maixhub.com page.
 The main goal of this work was to test the possibility of face detection technology on the Kendryte K210 chip.
