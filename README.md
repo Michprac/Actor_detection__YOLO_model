@@ -15,6 +15,14 @@ The neural network that was used in this project is YOLOv2. To make a model you 
   <img src ="/model_two_actors_v2.png" width="410" >
 </p>
 
+The casing was also designed to connect all the components together. The designed housing also includes a place for a 9V battery and a hole for the screen:
+
+<p align = "center">
+  <img src ="Zaprojektowana_obudowa.PNG" width="500" >
+</p>
+
+
+
 # Testing the model with different image filters
 Also I made some kind of analysis of working of this system under influence of external factors. Below you can see some graphs. 
 
