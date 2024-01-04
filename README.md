@@ -1,4 +1,4 @@
-# Actor_detection__YOLO_model
+# Device for detecting a specific person based on the YOLO model
 
 model-20565.nncase__MAIXHUB_TOM_CRUISE_MODEL_200_images
 
