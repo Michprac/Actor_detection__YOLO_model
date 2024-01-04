@@ -11,8 +11,8 @@ The neural network that was used in this project is YOLOv2. To make a model you 
 
 # Images
 <p float="left">
-  <img src ="model_one_actor_v2.png" width="200" >
-  <img src ="/model_two_actors_v2.png" width="200" >
+  <img src ="model_one_actor_v2.png" width="400" >
+  <img src ="/model_two_actors_v2.png" width="410" >
 </p>
 
 # Testing the model with different image filters
